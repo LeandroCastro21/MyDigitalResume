@@ -16,7 +16,7 @@ Bem-vindo ao meu portfólio digital! Este repositório contém o código-fonte d
 
 1. Clone o repositório: 
    ```bash
-   git clone https://github.com/seu-usuario/MyDigitalResume.git
+   https://github.com/LeandroCastro21/MyDigitalResume.git
 2. Vercel:
     ```bash
    https://my-digital-resume.vercel.app/
